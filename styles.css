@@ -1,0 +1,24 @@
+#container {
+    width: 100%;
+}
+.item{
+    width: 15%;
+    font-size: 3em;
+    text-align: center;
+    padding: 50px 0 50px 0;
+}
+p {
+    margin: auto;
+}
+#box1 {
+    background-color: blue;
+    color: white;
+}
+#box2 {
+    background-color: red;
+    color: white;
+}
+#box3 {
+    background-color: purple;
+    color: white;
+}
